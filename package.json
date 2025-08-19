@@ -1,0 +1,17 @@
+{
+  "name": "parcel-template",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/*.html"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Parcel Template",
+  "devDependencies": {
+    "@parcel/transformer-sass": "^2.15.4",
+    "parcel": "^2.15.4"
+  }
+}
